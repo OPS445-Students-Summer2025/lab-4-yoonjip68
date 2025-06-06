@@ -1,0 +1,38 @@
+test_0 (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for file creation: ./lab4a.py ... ok
+test_a (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for errors running: ./lab4a.py ... ok
+test_a1 (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for correct shebang line: ./lab4a.py $test_a_function_join (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_sets() fails without 2 arguments ... ok
+test_b_function_join (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_sets() fails without 2 arguments ... oktest_c_function_join (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_sets() fails without 2 arguments ... ok
+test_d_function_join_sets (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_sets() joins sets together {1,2,3,4,5} $test_e_function_join_sets (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_sets() joins sets together ... ok
+test_f_function_match_sets (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_sets() ... ok
+test_g_function_match_sets (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_sets() ... ok
+test_h_function_diff_sets (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_sets() ... ok
+test_i_function_diff_sets (__main__.lab4a)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_sets() ... ok
+test_0 (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for file creation: ./lab4b.py ... ok
+test_a (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for errors running: ./lab4b.py ... ok
+test_a1 (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for correct shebang line: ./lab4b.py $test_a_function_join (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_lists() fails without 2 arguments ... oktest_b_function_join (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_lists() fails without 2 arguments ... $test_c_function_join (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_lists() fails without 2 arguments ... oktest_d_function_join_lists (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_lists() joins lists together {1,2,3,4,5$test_e_function_join_lists (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_lists() joins lists together ... ok
+test_f_function_match_lists (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_lists() ... ok
+test_g_function_match_lists (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_lists() ... ok
+test_h_function_diff_lists (__main__.lab4b)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_lists() ... ok
