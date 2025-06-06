@@ -9,7 +9,8 @@ def match_sets(s1, s2):
     return s1.intersection(s2)
 
 def diff_sets(s1, s2):
-    # diff_sets will return a set that contains all different values which are not shared between the$    return s1.symmetric_difference(s2)
+    # diff_sets will return a set that contains all different values which are not shared between the sets
+    return s1.symmetric_difference(s2)
 
 if __name__ == '__main__':
     set1 = set(range(1,10))
